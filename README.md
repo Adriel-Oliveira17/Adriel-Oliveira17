@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Adriel!
 
-ou físico teórico e, atualmente, doutorando em **Física Teórica e Computacional aplicada à Cosmologia**. Minha pesquisa é focada no problema da energia escura, na expansão cósmica e na resolução da **tensão da Constante de Hubble ($H_0$)**.
+Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computacional aplicada à Cosmologia**. Minha pesquisa é focada no problema da energia escura, na expansão cósmica e na resolução da **tensão da Constante de Hubble ($H_0$)**.
 
 ---
 
