@@ -13,7 +13,7 @@ ou físico teórico e, atualmente, doutorando em **Física Teórica e Computacio
 ---
 
 ### 🛠️ Toolbox / Tecnologias
-* **Linguagens:**Python** 🐍 | **Julia** ⚡ | **Wolfram Mathematica** 🔮
+* **Linguagens**:**Python** 🐍 | **Julia** ⚡ | **Wolfram Mathematica** 🔮
 * **Estatística & Dados:** Monte Carlo Markov Chains (MCMC), Inferência Bayesiana, Geração de Mocks, Análise de Dados.
 * **Foco Atual:** Métodos de Machine Learning & Deep Learning aplicados a Grandes Levantamentos Galácticos e Cosmologia de Precisão.
 
