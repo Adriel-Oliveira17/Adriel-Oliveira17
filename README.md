@@ -27,14 +27,10 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ![Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1111?style=for-the-badge&logo=wolfram&logoColor=white)
 
 #### 📊 Ciência de Dados & Estatística
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![emcee](https://img.shields.io/badge/emcee-MCMC%20Hammer-24292e?style=for-the-badge&logo=python&logoColor=2196F3)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 #### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -42,7 +38,11 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 
 #### ⚙️ Ferramentas
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-005A60?style=for-the-badge&logo=powerquery&logoColor=white)
 <!--
 **Adriel-Oliveira17/Adriel-Oliveira17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
