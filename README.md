@@ -4,7 +4,7 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 
 ---
 
-### 🌌 O que eu faço?
+### O que eu faço?
 * **Modelagem Teórica:** Desenvolvimento de modelos cosmológicos modificados matematicamente e fisicamente consistentes, com foco em **Gravidade Teleparalela** e suas extensões.
 * **Cosmologia Observacional:** Análise de dados e vínculo de parâmetros cosmológicos usando dados reais de Supernovas (SNIa), Cronômetros Cósmicos (CC), Oscilações Acústicas de Bárions (BAO) e Radiação Cósmica de Fundo (CMB) através de amostragem MCMC.
 * **Ciência de Dados & Machine Learning:** Aplicação de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia de precisão.
@@ -12,31 +12,31 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 
 ---
 
-### 🛠️ Tecnologias
-* **Linguagens**:**Python** 🐍 | **Julia** ⚡ | **Wolfram Mathematica** 🔢
+### Tecnologias
+* **Linguagens**:**Python** | **Julia** | **Wolfram Mathematica** 
 * **Estatística & Dados:** Monte Carlo Markov Chains (MCMC), Inferência Bayesiana, Geração de Mocks, Análise de Dados.
 * **Foco Atual:** Métodos de Machine Learning & Deep Learning aplicados a Grandes Levantamentos Galácticos e Cosmologia de Precisão.
 
 ---
 
-### 🛠️ Toolbox
+### Toolbox
 
-#### 💻 Linguagens de Programação & Computação Algébrica
+#### Linguagens de Programação & Computação Algébrica
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1111?style=for-the-badge&logo=wolfram&logoColor=white)
 
-#### 📊 Ciência de Dados & Estatística
+#### Ciência de Dados & Estatística
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![emcee](https://img.shields.io/badge/emcee-MCMC%20Hammer-24292e?style=for-the-badge&logo=python&logoColor=2196F3)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-#### 🤖 Machine Learning
+#### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-#### ⚙️ Ferramentas
+#### Ferramentas
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
