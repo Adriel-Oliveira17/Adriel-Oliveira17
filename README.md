@@ -6,9 +6,9 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 
 ### O que eu faço?
 * **Modelagem Teórica:** Desenvolvimento de modelos cosmológicos modificados matematicamente e fisicamente consistentes, com foco em **Gravidade Teleparalela** e suas extensões.
-* **Cosmologia Observacional:** Análise de dados e vínculo de parâmetros cosmológicos usando dados reais de Supernovas (SNIa), Cronômetros Cósmicos (CC), Oscilações Acústicas de Bárions (BAO) e Radiação Cósmica de Fundo (CMB) através de amostragem MCMC.
-* **Ciência de Dados & Machine Learning:** Aplicação de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia de precisão.
-* **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos** (de Finanças a Visão Computacional, NLP ou Analytics) para aprimorar minhas habilidades práticas e explorar o potencial além dos modelos teóricos de papel.
+* **Cosmologia Observacional:** Análise de dados e vínculo de parâmetros cosmológicos usando dados reais de Supernovas (SNIa), Cronômetros Cósmicos (CC), Oscilações Acústicas de Bárions (BAO) e Radiação Cósmica de Fundo (CMB) através de inferencia Bayesiana.
+* **Ciência de Dados & Machine Learning:** Aplicação de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia.
+* **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos**  para aprimorar minhas habilidades práticas e explorar o potencial além dos modelos teóricos de papel.
 
 ---
 
