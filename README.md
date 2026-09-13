@@ -25,7 +25,9 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1111?style=for-the-badge&logo=wolfram&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0585D2)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![M Language](https://img.shields.io/badge/M_Language-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Ciência de Dados & Estatística
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -44,6 +46,7 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-005A60?style=for-the-badge&logo=powerquery&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0585D2)
 <!--
 **Adriel-Oliveira17/Adriel-Oliveira17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
