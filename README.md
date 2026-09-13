@@ -8,13 +8,15 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 * **Modelagem Teórica:** Desenvolvimento de modelos cosmológicos modificados matematicamente e fisicamente consistentes, com foco em **Gravidade Teleparalela** e suas extensões.
 * **Cosmologia Observacional:** Análise de dados e vínculo de parâmetros cosmológicos usando dados reais de Supernovas (SNIa), Cronômetros Cósmicos (CC), Oscilações Acústicas de Bárions (BAO) e Radiação Cósmica de Fundo (CMB) através de inferencia Bayesiana.
 * **Ciência de Dados & Machine Learning:** Aplicação de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia.
-* **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos**  para aprimorar minhas habilidades práticas e explorar o potencial além dos modelos teóricos de papel.
+* **Business Intelligence & Análise de Dados:** Construção de dashboards interativos, modelagem de dados complexos com **DAX** e tratamento/automação de ETL avançado com linguagem **M** no **Power BI**.
+* **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos** para aprimorar minhas habilidades práticas e explorar o potencial além dos modelos teóricos de papel.
 
 ---
 
 ### Tecnologias
-* **Linguagens**:**Python** | **Julia** | **Wolfram Mathematica** 
+* **Linguagens:** **Python** | **Julia** | **Wolfram Mathematica** | **SQL** | **DAX** | **M**
 * **Estatística & Dados:** Monte Carlo Markov Chains (MCMC), Inferência Bayesiana, Geração de Mocks, Análise de Dados.
+* **Business Intelligence:** Power BI, Power Query, Modelagem em DAX, Transformação de Dados em M.
 * **Foco Atual:** Métodos de Machine Learning & Deep Learning aplicados a Grandes Levantamentos Galácticos e Cosmologia de Precisão.
 
 ---
@@ -34,10 +36,10 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![emcee](https://img.shields.io/badge/emcee-MCMC%20Hammer-24292e?style=for-the-badge&logo=python&logoColor=2196F3)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
 #### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
 
 #### Ferramentas
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,17 +49,3 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-005A60?style=for-the-badge&logo=powerquery&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0585D2)
-<!--
-**Adriel-Oliveira17/Adriel-Oliveira17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
