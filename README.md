@@ -25,7 +25,7 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1111?style=for-the-badge&logo=wolfram&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0585D2)
 
 #### Ciência de Dados & Estatística
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
