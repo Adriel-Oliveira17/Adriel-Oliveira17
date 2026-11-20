@@ -10,7 +10,7 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 - **Ciência de Dados & Machine Learning:** Desenvolvimento de modelos de **Machine Learning em geral** (regressão, classificação, *ensemble*/*gradient boosting* e redes neurais) aplicados a problemas variados — como risco de crédito, negócios e predição —, além de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia.
 - **Big Data & Processamento Distribuído:** Manipulação de grandes volumes de dados e construção de fluxos analíticos escaláveis utilizando **PySpark** e **Databricks** (Em aprendizado).
 - **Business Intelligence & Análise de Dados:** Construção de dashboards interativos, modelagem de dados complexos com **DAX** e tratamento/automação de ETL avançado com linguagem **M** no **Power BI**.
-- **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning e Ciência de Dados de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos** para aprimorar minhas habilidades práticas e explorar o potencial dos dados além dos modelos teóricos calculados de papel.
+- **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning e Ciência de Dados de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos** para aprimorar minhas habilidades práticas e explorar o potencial dos dados além dos modelos teóricos calculados em papel.
 
 ---
 
