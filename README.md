@@ -5,19 +5,22 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 ---
 
 ### O que eu faço?
-* **Modelagem Teórica:** Desenvolvimento de modelos cosmológicos modificados matematicamente e fisicamente consistentes, com foco em **Gravidade Teleparalela** e suas extensões.
-* **Cosmologia Observacional:** Análise de dados e vínculo de parâmetros cosmológicos usando dados reais de Supernovas (SNIa), Cronômetros Cósmicos (CC), Oscilações Acústicas de Bárions (BAO) e Radiação Cósmica de Fundo (CMB) através de inferencia Bayesiana.
-* **Ciência de Dados & Machine Learning:** Aplicação de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia.
-* **Business Intelligence & Análise de Dados:** Construção de dashboards interativos, modelagem de dados complexos com **DAX** e tratamento/automação de ETL avançado com linguagem **M** no **Power BI**.
-* **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos** para aprimorar minhas habilidades práticas e explorar o potencial além dos modelos teóricos de papel.
+- **Modelagem Teórica:** Desenvolvimento de modelos cosmológicos modificados matematicamente e fisicamente consistentes, com foco em **Gravidade Teleparalela** e suas extensões.
+- **Cosmologia Observacional:** Análise de dados e vínculo de parâmetros cosmológicos usando dados reais de Supernovas (SNIa), Cronômetros Cósmicos (CC), Oscilações Acústicas de Bárions (BAO) e Radiação Cósmica de Fundo (CMB) através de inferência Bayesiana.
+- **Ciência de Dados & Machine Learning:** Desenvolvimento de modelos de **Machine Learning em geral** (regressão, classificação, *ensemble*/*gradient boosting* e redes neurais) aplicados a problemas variados — como risco de crédito, negócios e predição —, além de técnicas de ML e geração/análise de **Mock Data** aplicadas à cosmologia.
+- **Big Data & Processamento Distribuído:** Manipulação de grandes volumes de dados e construção de fluxos analíticos escaláveis utilizando **PySpark** e **Databricks** (Em aprendizado).
+- **Business Intelligence & Análise de Dados:** Construção de dashboards interativos, modelagem de dados complexos com **DAX** e tratamento/automação de ETL avançado com linguagem **M** no **Power BI**.
+- **Expandindo Horizontes:** Tenho um profundo interesse em **Machine Learning e Ciência de Dados de maneira geral**. Meu objetivo atual é desenvolver e documentar **projetos de diversos tipos** para aprimorar minhas habilidades práticas e explorar o potencial dos dados além dos modelos teóricos calculados de papel.
 
 ---
 
 ### Tecnologias
-* **Linguagens:** **Python** | **Julia** | **Wolfram Mathematica** | **SQL** | **DAX** | **M**
-* **Estatística & Dados:** Monte Carlo Markov Chains (MCMC), Inferência Bayesiana, Geração de Mocks, Análise de Dados.
-* **Business Intelligence:** Power BI, Power Query, Modelagem em DAX, Transformação de Dados em M.
-* **Foco Atual:** Métodos de Machine Learning & Deep Learning aplicados a Grandes Levantamentos Galácticos e Cosmologia de Precisão.
+- **Linguagens:** **Python** | **Julia** | **Wolfram Mathematica** | **SQL** | **DAX** | **M**
+- **Machine Learning & Modelagem:** Regressão, Classificação, Gradient Boosting, Deep Learning, Engenharia de Atributos e Validação Temporal (*Out-of-Time*).
+- **Estatística & Dados:** Monte Carlo Markov Chains (MCMC), Inferência Bayesiana, Geração de Mocks, Análise Exploratória de Dados.
+- **Big Data & Cloud:** **PySpark** | **Databricks**
+- **Business Intelligence:** Power BI, Power Query, Modelagem em DAX, Transformação de Dados em M.
+- **Foco Atual:** Métodos de Machine Learning & Deep Learning aplicados tanto a problemas gerais de dados quanto a Grandes Levantamentos de dados Astrofísicos e Cosmologia de Precisão.
 
 ---
 
@@ -40,6 +43,10 @@ Sou físico teórico e, atualmente, doutorando em **Física Teórica e Computaci
 #### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+#### Big Data & Plataformas
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 #### Ferramentas
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
